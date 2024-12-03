@@ -24,7 +24,7 @@ dependencies:
   webview_flutter_platform_interface: ^2.3.0
   webview_flutter_wkwebview:
     git:
-      url: https://github.com/VanThinh06/webview_flutter_wkwebview.git
+      url: https://github.com/phu-bc/webview_flutter_wkwebview.git
       ref: master
 
 dev_dependencies:
